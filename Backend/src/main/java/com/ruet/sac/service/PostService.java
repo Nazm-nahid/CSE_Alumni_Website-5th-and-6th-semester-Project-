@@ -96,7 +96,7 @@ public class PostService {
         post.setPostDescription(postDescription);
         if(image!=null)
         {
-            String imageName = fileUploadService.saveFile(image ,"postImage"+"69");
+            String imageName = fileUploadService.saveFile(image ,"postImage"+id);
             post.setPostImage(deployUrl+imagePath+"?imageName="+imageName);
         }
         LocalDate postDate =LocalDate.now();
