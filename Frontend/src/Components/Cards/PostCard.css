@@ -1,0 +1,14 @@
+.post-card{
+    max-width: 70% ;
+    margin-left:15% ;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+@media (max-width: 900px) {
+    .post-card{
+    max-width: 90% ;
+    margin-left:5% ;
+    }
+}
+  

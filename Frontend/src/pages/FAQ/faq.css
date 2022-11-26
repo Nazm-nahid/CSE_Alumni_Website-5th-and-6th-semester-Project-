@@ -1,0 +1,41 @@
+
+.post-btn{
+    margin-top: auto;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    margin-left: auto;
+    position: fixed;
+}
+
+.Fab-icon{
+margin-left: -0.4;
+margin-right: 0.5px;
+}
+
+.modal-box{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 60%;
+background: rgb(214, 214, 214);
+border-radius: 5px;
+box-shadow: 24;
+padding: 3%;
+}
+
+@media (max-width: 900px) {
+
+.Fab-txt{
+display: none;
+}
+.Fab-icon{
+    margin:0;
+}
+.post-btn{
+    border-radius: 50%;
+}
+.modal-box{
+    width: 80%;
+}
+}

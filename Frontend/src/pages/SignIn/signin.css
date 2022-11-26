@@ -1,0 +1,9 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url('https://lh5.googleusercontent.com/p/AF1QipOWzIfAq74UvBzCym59J6ca8XhsWonfwEQS05D3=w1080-k-no');
+  background-size: cover;
+  background-position: center center;
+}
