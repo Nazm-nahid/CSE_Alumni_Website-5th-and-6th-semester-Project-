@@ -1,7 +1,9 @@
 # #  RUET CSE ALUMNI (Updated) 
-[API Documentation](./API_Documentation_Backend.md)
+[API Documentation](#api-documentation)
 
 [Project Structure](#project-structure)
+
+[Datbabase Structure](#datbabase-structure)
 # Project Structure
 
 
@@ -11,6 +13,7 @@
 # Datbabase Structure
 ![ER CSE Alumni DB](https://user-images.githubusercontent.com/54554725/236204128-c305fbd5-5873-4aaf-9c48-a172dc55f167.png)
 
+# # Project Overview (Screenshots)
 # Landing Page
 ![image](https://user-images.githubusercontent.com/54554725/236204807-42d08776-0dbe-493d-a4e3-1d7ab0ae6c16.png)
 
