@@ -6,17 +6,26 @@
 [Datbabase Structure](#datbabase-structure)
 
 [Project Overview](#-project-overview-screenshots)
-             [Landing Page](#landing-page)
-             [Registration](#registration-page)
-             [Login](#login-page)
-             [Dashboard](#dashboard)
-             [Forum](#forum)
-             [Directory](#directory)
-             [Job Portal](#job-portal)
-             [Events](#events)
-             [Profile](#profile)
+
+   [Landing Page](#landing-page)
+             
+   [Registration](#registration-page)
+   
+   [Login](#login-page)
+   
+   [Dashboard](#dashboard)
+   
+   [Forum](#forum)
+   
+   [Directory](#directory)
+   
+   [Job Portal](#job-portal)
+   
+   [Events](#events)
+   
+   [Profile](#profile)
          
-             [Admin Pannel](#-admin-pannel)
+   [Admin Pannel](#-admin-pannel)
          
 # Project Structure
 
