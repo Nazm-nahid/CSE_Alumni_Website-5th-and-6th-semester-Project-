@@ -6,7 +6,6 @@
 [Datbabase Structure](#datbabase-structure)
 
 [Project Overview](#-project-overview-screenshots)
-         User Pannel
              [Landing Page](#landing-page)
              [Registration](#registration-page)
              [Login](#login-page)
@@ -17,7 +16,7 @@
              [Events](#events)
              [Profile](#profile)
          
-         [Admin Pannel](#-admin-pannel)
+             [Admin Pannel](#-admin-pannel)
          
 # Project Structure
 
